@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-04T02:37:34.990Z" agent="5.0 (X11)" etag="_Dgc1XTNdZcopKw-8viK" version="20.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-04T02:53:25.753Z" agent="5.0 (X11)" etag="NebZx0xKK_Dpwki7b2Ri" version="20.2.8" type="github">
   <diagram id="-kUhCNm7BmuETYMNNEoT" name="template">
-    <mxGraphModel dx="716" dy="372" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="989" dy="470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -39,6 +39,9 @@
         </mxCell>
         <mxCell id="AD0mFGzPbg3MalVjxy_X-14" value="M2" style="verticalLabelPosition=middle;shadow=0;dashed=0;align=left;html=1;verticalAlign=middle;shape=mxgraph.electrical.transistors.pmos;pointerEvents=1;labelPosition=right;" vertex="1" parent="1">
           <mxGeometry x="320" y="550" width="60" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="AD0mFGzPbg3MalVjxy_X-15" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.signal_sources.signal_ground;" vertex="1" parent="1">
+          <mxGeometry x="533.75" y="480" width="16.25" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
