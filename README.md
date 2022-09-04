@@ -14,6 +14,10 @@ outsource creation of certain diagrams if I get busy or bored.
 Circuit diagrams drawn using [draw.io/digrams.net](https://app.diagrams.net/) which can be exported to SVG, PNG and a host of other formats. 
 I try adding the topologies and circuits I use/might use or would want to use in my documentation/notes/reports et cetera.
 
+## Instructions
+
+1. You will have to enable the Mathematical Typesetting function by going to Extras menu item.
+
 # License
 
 This is licensed under CC0 and you can read the fine print if you to.
