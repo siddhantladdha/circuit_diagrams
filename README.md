@@ -5,7 +5,7 @@
 There is not a lot of Public Domain Circuit diagrams in SVG format. 
 Some sites that do have this, have horrendous watermarks and ads. Some required share-alike and some involved Non-commercial usage.
 I have nothing against that. In fact, majority of my work is CC-SA-NC or some or the other form, but I just want to use and want people
-to use a simple circuit diagram without red-tape in there forums posts/ questions/ reports/ documentation et cetera, 
+to use a simple circuit diagram without red-tape in their forums posts/questions/reports/documentation et cetera, 
 and from personal experience I had to create a circuit diagram more than once to use it in different
 projects or in my reports.
 
