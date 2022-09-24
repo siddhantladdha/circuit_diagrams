@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-24T03:06:02.858Z" agent="5.0 (X11)" etag="UtO3g0od_Nh4ygq0VYor" version="20.3.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-09-24T03:08:49.447Z" agent="5.0 (X11)" etag="CZn2o4LZ6Uvzfhrw_IIL" version="20.3.2" type="github" pages="4">
   <diagram id="kj9pTFqMgSy0iZO6HhK7" name="common_source_amplifier">
     <mxGraphModel dx="1038" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -482,8 +482,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="i2IpB1k9VM9sl4u-oZ3r" name="Page-4">
-    <mxGraphModel dx="865" dy="1549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+  <diagram id="i2IpB1k9VM9sl4u-oZ3r" name="current_mirror_OTA">
+    <mxGraphModel dx="741" dy="1485" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -504,6 +504,11 @@
               <mxPoint x="330" y="200" />
               <mxPoint x="330" y="200" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="60u8GfaSFXH4_MHsIBpf-71" value="$$V_{casc,p}$$" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="60u8GfaSFXH4_MHsIBpf-6">
+          <mxGeometry x="-0.25" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="60u8GfaSFXH4_MHsIBpf-8" value="$$M_9$$" style="verticalLabelPosition=middle;shadow=0;dashed=0;align=left;html=1;verticalAlign=middle;shape=mxgraph.electrical.transistors.pmos;pointerEvents=1;labelPosition=right;" vertex="1" parent="1">
@@ -684,6 +689,16 @@
         </mxCell>
         <mxCell id="60u8GfaSFXH4_MHsIBpf-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="60u8GfaSFXH4_MHsIBpf-45" target="60u8GfaSFXH4_MHsIBpf-1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="60u8GfaSFXH4_MHsIBpf-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="60u8GfaSFXH4_MHsIBpf-45">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="60u8GfaSFXH4_MHsIBpf-73" value="$$V_{tail,p}$$" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="60u8GfaSFXH4_MHsIBpf-72">
+          <mxGeometry x="-0.29" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="60u8GfaSFXH4_MHsIBpf-45" value="$$M_9$$" style="verticalLabelPosition=middle;shadow=0;dashed=0;align=left;html=1;verticalAlign=middle;shape=mxgraph.electrical.transistors.pmos;pointerEvents=1;labelPosition=right;" vertex="1" parent="1">
           <mxGeometry x="360" y="40" width="60" height="100" as="geometry" />
